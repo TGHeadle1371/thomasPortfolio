@@ -1,7 +1,9 @@
-$(document).ready(function () {
-  $('.fixed-action-btn').floatingActionButton({
-    direction: 'left'
-  });
-  $('.parallax').parallax();
-  $('.sidenav').sidenav();
+$(document).ready(function() {
+    $(".fixed-action-btn").floatingActionButton({
+        direction: "left",
+        hoverEnabled: false
+    });
+
+    $(".parallax").parallax();
+    $(".sidenav").sidenav();
 });
