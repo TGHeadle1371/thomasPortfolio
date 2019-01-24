@@ -189,6 +189,10 @@ img {
     min-width: 100%;
     width: 100%;
   }
+
+  #logo-container {
+    margin-left: 15px;
+  }
 }
 
 /* Portrait */
