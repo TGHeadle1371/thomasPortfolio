@@ -113,6 +113,27 @@ p {
   color: #26a69a;
 }
 
+.sidenav li a {
+  font-size: 2em;
+  letter-spacing: .3em;
+}
+
+#headshotImg {
+  margin: 0;
+  padding: 5px;
+  border-radius: 70em;
+}
+
+.resize {
+  width: 150px;
+  height: auto;
+}
+
+.resize {
+  width: auto;
+  height: 300px;
+}
+
 .parallax-container {
   min-height: 380px;
   line-height: 0;
