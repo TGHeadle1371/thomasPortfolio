@@ -5,6 +5,7 @@
  *
  * Made By MaterializeCSS.com
  */
+/* Hero Section */
 #hero {
   box-sizing: border-box;
   min-width: 100%;
@@ -14,6 +15,7 @@
   overflow-x: hidden;
 }
 
+/* Row Spacing */
 .row {
   margin-left: 0;
   margin-right: 0;
@@ -21,26 +23,31 @@
   min-width: 100%;
 }
 
+/* HTML Width */
 html {
   max-width: 100%;
   min-width: 100%;
 }
 
+/* Body Color */
 body {
   background-color: #a7b3a5;
 }
 
+/* Logo text flow */
 #logo-container {
   overflow: hidden;
   white-space: nowrap;
   font-weight: 1.5em;
 }
 
+/* Nav Colors */
 nav ul a,
 nav .brand-logo {
   color: #444;
 }
 
+/* Greeting Font Styling */
 #greetingFont {
   filter: drop-shadow(0 0 0.75rem #000);
   font-family: 'Josefin Slab',
@@ -48,45 +55,54 @@ nav .brand-logo {
 
 }
 
+/* Icon colors */
 i,
 .devicons {
   color: #eae3ea;
 }
 
+/* Header styles */
 h3,
 h5 {
   filter: drop-shadow(0 0 0.75rem #000);
 }
 
+/* Header colors */
 h2,
 h4 {
   color: #b56357;
 }
 
+/* Specific header fontsize */
 h3 {
   font-size: 1.2em;
 }
 
+/* Text position and style */
 #serveText {
   position: relative;
   filter: drop-shadow(0 0 0.75rem #000);
 }
 
+/* Button Color and style */
 .btn-large {
   border-radius: 5px;
   background-color: #b56357;
 
 }
 
+/* Button hover Style */
 .btn-large:hover {
   background-color: rgba(194, 38, 11) !important;
 }
 
+/* Button color */
 #download-button {
   background-color: #b56357;
   ;
 }
 
+/* Body Text style */
 p {
   line-height: 2rem;
   color: #eae3ea;
@@ -126,36 +142,43 @@ p {
   color: #444;
 }
 
+/* Sidenav trigger color */
 .sidenav-trigger {
-  color: #26a69a;
+  color: #bb5566;
 }
 
+/* Nav color */
 nav li a,
 nav #logo-container {
   color: #eae3ea;
 }
 
+/* Side Nav Text styles */
 .sidenav li a {
   font-size: 2em;
   letter-spacing: .3em;
 }
 
+/* Side Nav Headshot Image */
 #headshotImg {
   margin: 0;
   padding: 5px;
   border-radius: 70em;
 }
 
+/* Image resize */
 .resize {
   width: 150px;
   height: auto;
 }
 
+/* Image resize */
 .resize {
   width: auto;
   height: 300px;
 }
 
+/* Parallax Container Styles */
 .parallax-container {
   min-height: 380px;
   line-height: 0;
@@ -163,14 +186,17 @@ nav #logo-container {
   color: rgba(255, 255, 255, .9);
 }
 
+/* Parallax Container Section */
 .parallax-container .section {
   max-width: 100%;
 }
 
+/* Icon Block padding */
 .icon-block {
   padding: 0 15px;
 }
 
+/* Icon Block Icon Font Size */
 .icon-block .material-icons {
   font-size: inherit;
 }
@@ -210,6 +236,7 @@ img {
   display: inline-block;
 }
 
+/* Card Radius */
 .card {
   border-radius: 5px;
 }
