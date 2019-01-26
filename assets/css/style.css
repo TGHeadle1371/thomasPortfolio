@@ -48,6 +48,11 @@ nav .brand-logo {
 
 }
 
+i,
+.devicons {
+  color: #6b7a8f;
+}
+
 h3,
 h5 {
   filter: drop-shadow(0 0 0.75rem #000);
@@ -64,15 +69,20 @@ h3 {
 
 .btn-large {
   border-radius: 5px;
+  background-color: #6b7a8f;
 }
 
 .btn-large:hover {
   background-color: rgba(194, 38, 11) !important;
+}
 
+#download-button {
+  background-color: #6b7a8f;
 }
 
 p {
   line-height: 2rem;
+  color: #f7882f;
 }
 
 /* label color */
