@@ -33,15 +33,15 @@ An internet connection.
 
 ## Built With
 
-HTML5
-CSS3
-JavaScript
-jQuery
-[Materialize](https://materializecss.com/)
-[Google Fonts](https://fonts.google.com/)
-[Google Material Icons](https://material.io/tools/icons/?style=baseline/)
-[Vorillaz Dev Icons](http://vorillaz.github.io/devicons/#/cheat/)
-[Font Awesome](https://fontawesome.com/icons?d=gallery/)
+-   HTML5
+-   CSS3
+-   JavaScript
+-   jQuery
+-   [Materialize](https://materializecss.com/)
+-   [Google Fonts](https://fonts.google.com/)
+-   [Google Material Icons](https://material.io/tools/icons/?style=baseline/)
+-   [Vorillaz Dev Icons](http://vorillaz.github.io/devicons/#/cheat/)
+-   [Font Awesome](https://fontawesome.com/icons?d=gallery/)
 
 ## License
 
