@@ -38,10 +38,10 @@ CSS3
 JavaScript
 jQuery
 [Materialize](https://materializecss.com/)
-[GoogleFonts](https://fonts.google.com/)
-[GoogleMaterialIcons](https://material.io/tools/icons/?style=baseline/)
-[Vorillaz_DevIcons](http://vorillaz.github.io/devicons/#/cheat/)
-[FontAwesome](https://fontawesome.com/icons?d=gallery/)
+[Google Fonts](https://fonts.google.com/)
+[Google Material Icons](https://material.io/tools/icons/?style=baseline/)
+[Vorillaz Dev Icons](http://vorillaz.github.io/devicons/#/cheat/)
+[Font Awesome](https://fontawesome.com/icons?d=gallery/)
 
 ## License
 
