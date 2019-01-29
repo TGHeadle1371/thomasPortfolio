@@ -256,12 +256,25 @@ img {
   display: none;
 }
 
+/* Keep Action button from expanding html width */
+#actionBtn {
+  max-width: 100%;
+  display: inline-block;
+}
+
+/* Card Radius */
+.card {
+  border-radius: 5px;
+}
+
+/* On hover display breathing text box  */
 #portfolio:hover .hoverText {
   display: block;
   -webkit-animation: breathing 5s ease-out infinite normal;
   animation: breathing 5s ease-out infinite normal;
 }
 
+/* Breathing animation for hover text */
 @-webkit-keyframes breathing {
   0% {
     -webkit-transform: scale(1);
@@ -320,18 +333,6 @@ img {
     transform: scale(1);
   }
 }
-
-/* Keep Action button from expanding html width */
-#actionBtn {
-  max-width: 100%;
-  display: inline-block;
-}
-
-/* Card Radius */
-.card {
-  border-radius: 5px;
-}
-
 
 /* ----------- iPhone 6+, 7+ and 8+ ----------- */
 
