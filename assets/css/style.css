@@ -235,7 +235,7 @@ img {
 
 #portfolio:hover .hoverText {
   display: block;
-  webkit-animation: breathing 5s ease-out infinite normal;
+  -webkit-animation: breathing 5s ease-out infinite normal;
   animation: breathing 5s ease-out infinite normal;
 }
 
