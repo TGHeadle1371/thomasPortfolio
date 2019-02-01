@@ -9,4 +9,5 @@ $(document).ready(function () {
     $(".parallax").parallax();
     // Sidenav call
     $(".sidenav").sidenav();
+
 });
