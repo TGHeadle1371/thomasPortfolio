@@ -33,6 +33,8 @@ An internet connection.
 -   [Vorillaz Dev Icons](http://vorillaz.github.io/devicons/#/cheat/)
 -   [Font Awesome](https://fontawesome.com/icons?d=gallery/)
 
+![Site Image](assets/images/adventureAdvisors.png)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](/LICENSE) file for details
