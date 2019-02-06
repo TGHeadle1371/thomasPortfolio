@@ -158,6 +158,7 @@ p {
 /* Sidenav width */
 .sidenav {
   max-width: 250px;
+  white-space: nowrap;
 }
 
 /* Sidenav H2 */
