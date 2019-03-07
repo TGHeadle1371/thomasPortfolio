@@ -50,8 +50,9 @@ nav .brand-logo {
 /* Greeting Font Styling */
 #greetingFont {
   filter: drop-shadow(0 0 0.75rem #000);
-  font-family: 'Josefin Slab',
-    serif;
+  font-family: 'Niramit',
+    sans-serif;
+
 
 }
 
