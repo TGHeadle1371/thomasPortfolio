@@ -122,8 +122,7 @@ p {
 }
 
 /* label focus color */
-.input-field input:focus+label,
-  {
+.input-field input:focus+label{
   color: #444;
 }
 
@@ -395,3 +394,7 @@ img {
     width: 100%;
   }
 }
+
+
+
+
