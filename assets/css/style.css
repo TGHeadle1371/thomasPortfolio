@@ -27,11 +27,18 @@
 html {
   max-width: 100%;
   min-width: 100%;
+  margin: 0;
+  padding: 0;
+  align-content: center;
+  overflow-x: hidden;
+
 }
 
 /* Body Color */
 body {
   background-color: #a7b3a5;
+   max-width: 100%;
+   overflow-x: hidden;
 }
 
 /* Logo text flow */
