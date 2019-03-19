@@ -37,8 +37,8 @@ html {
 /* Body Color */
 body {
   background-color: #a7b3a5;
-   max-width: 100%;
-   overflow-x: hidden;
+  max-width: 100%;
+  overflow-x: hidden;
 }
 
 /* Logo text flow */
@@ -57,8 +57,8 @@ nav .brand-logo {
 /* Greeting Font Styling */
 #greetingFont {
   filter: drop-shadow(0 0 0.75rem #000);
-  font-family: 'Niramit',
-    sans-serif;
+  /* font-family: 'Niramit',
+    sans-serif; */
 
 
 }
@@ -107,7 +107,7 @@ h3 {
 /* Button color */
 #download-button {
   background-color: #b56357;
-  ;
+  margin-bottom: -30px;
 }
 
 /* Body Text style */
@@ -122,7 +122,7 @@ p {
 }
 
 /* label focus color */
-.input-field input:focus+label{
+.input-field input:focus+label {
   color: #444;
 }
 
@@ -238,6 +238,9 @@ img {
   padding: 0;
   min-width: 100%;
   width: 100%;
+}
+#firstImage {
+    margin-top: -150px;
 }
 
 /* Self Image Styles */
@@ -359,6 +362,9 @@ img {
     min-width: 100%;
     width: 100%;
   }
+  #serveText {
+    display: none;
+  }
 }
 
 /* Portrait */
@@ -376,6 +382,12 @@ img {
     min-width: 100%;
     width: 100%;
   }
+  #firstImage {
+    margin-top: -100px;
+  }
+   #serveText {
+     display: none;
+   }
 }
 
 /* Landscape */
@@ -393,8 +405,73 @@ img {
     min-width: 100%;
     width: 100%;
   }
+  #serveText{
+    display: none;
+  }
 }
+/* Custom */
+@media only screen and (min-device-width: 100px) and (max-device-width: 600px) and (-webkit-min-device-pixel-ratio: 1) {
+  #hero {
+    max-width: 100%;
+    min-width: 100%;
+    width: 100%;
+  }
 
+  /* Image Styles */
+  img {
+    margin: 0 auto;
+    padding: 0;
+    min-width: 100%;
+    width: 100%;
+  }
 
+  #serveText {
+    display: none;
+  }
+}
+/* Custom */
+@media only screen and (min-device-width: 600px) and (max-device-width: 900px) and (-webkit-min-device-pixel-ratio: 1) {
+  #hero {
+    max-width: 100%;
+    min-width: 100%;
+    width: 100%;
+  }
 
+  /* Image Styles */
+  img {
+    margin: 0 auto;
+    padding: 0;
+    min-width: 100%;
+    width: 100%;
+  }
+  #firstImage {
+    margin-bottom: -100px;
+  }
+  #serveText {
+    display: none;
+  }
+}
+/* Custom */
+@media only screen and (min-device-width: 900px) and (max-device-width: 1400px) and (-webkit-min-device-pixel-ratio: 1) {
+  #hero {
+    max-width: 100%;
+    min-width: 100%;
+    width: 100%;
+  }
 
+  /* Image Styles */
+  img {
+    margin: 0 auto;
+    padding: 0;
+    min-width: 100%;
+    width: 100%;
+  }
+
+  #firstImage {
+    margin-bottom: -100px;
+  }
+
+  #serveText {
+    display: none;
+  }
+}
