@@ -431,6 +431,10 @@ img {
     min-width: 100%;
     width: 100%;
   }
+  /* button spacing */
+  #download-button {
+    margin-top: 10px;
+  }
 
   #serveText {
     display: none;
