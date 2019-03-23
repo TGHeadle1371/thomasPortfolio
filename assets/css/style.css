@@ -78,7 +78,7 @@ h5 {
 /* Header colors */
 h2,
 h4 {
-  color: #b56357;
+  color: #104177;
 }
 
 /* Specific header fontsize */
@@ -95,7 +95,7 @@ h3 {
 /* Button Color and style */
 .btn-large {
   border-radius: 5px;
-  background-color: #b56357;
+  background-color: #104177;
 
 }
 
@@ -106,7 +106,7 @@ h3 {
 
 /* Button color */
 #download-button {
-  background-color: #b56357;
+  background-color: #104177;
   margin-bottom: -30px;
 }
 
@@ -159,7 +159,7 @@ p {
 
 /* Sidenav trigger color */
 .sidenav-trigger {
-  color: #bb5566;
+  color: #104177;
 }
 
 /* Sidenav width */
