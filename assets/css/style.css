@@ -189,6 +189,11 @@ nav #logo-container {
   font-size: 2em;
   letter-spacing: .3em;
 }
+/* Contact Icon styles */
+#contact-icons {
+  font-size: 4em;
+  letter-spacing: .3em;
+}
 
 /* Side Nav Headshot Image */
 #headshotImg {
