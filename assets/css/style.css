@@ -194,7 +194,9 @@ nav #logo-container {
   font-size: 4em;
   letter-spacing: .3em;
 }
-
+#contact > div.col.m10.offset-m1.l5.s12.center > div > a {
+  font-size: inherit
+}
 /* Side Nav Headshot Image */
 #headshotImg {
   margin: 0;
